@@ -24,6 +24,9 @@ yt-dlp
 # --- Audio y transcripción ---
 openai-whisper
 faster-whisper
+torch
+torchaudio
+transformers
 
 # NOTA: `ffmpeg` y `ffprobe` se instalan a nivel sistema, no con `pip`.
 # Windows: winget install Gyan.FFmpeg
