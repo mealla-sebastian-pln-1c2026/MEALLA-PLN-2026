@@ -126,8 +126,8 @@ ifts24-lab-pln-2026/
 ├── README.md
 ├── requirements.txt
 ├── 001_python/
-├── 002_WebScraping/
-│   ├── 008_YouTube_Audio_a_Corpus.ipynb
+├── 002_Adquisicion_Corpus/
+│   ├── 008_App_Transcripcion_Gradio.ipynb
 │   └── ...
 ├── 003_spacy/
 ├── Guias/
