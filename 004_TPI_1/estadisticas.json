@@ -1,696 +1,614 @@
 {
     "metricas": {
-        "total_documentos": 4,
+        "total_documentos": 186,
         "total_tokens": 3791,
         "vocabulario_unico": 865,
         "total_oraciones": 131
     },
     "entidades": [
         [
-            [
-                "IA",
-                "ORG"
-            ],
-            31
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "Vanguard",
-                "MISC"
-            ],
-            9
+            "Ejecutivo",
+            "ORG"
         ],
         [
-            [
-                "IA",
-                "MISC"
-            ],
-            5
+            "Corte",
+            "ORG"
         ],
         [
-            [
-                "EEUU",
-                "LOC"
-            ],
-            3
+            "Bumeran",
+            "ORG"
         ],
         [
-            [
-                "Sin embargo",
-                "MISC"
-            ],
-            3
+            "Argentina",
+            "LOC"
         ],
         [
-            [
-                "CNN",
-                "ORG"
-            ],
-            3
+            "Federico Barni",
+            "PER"
         ],
         [
-            [
-                "Schickling",
-                "PER"
-            ],
-            3
+            "Bumeran.com",
+            "MISC"
         ],
         [
-            [
-                "Argentina",
-                "LOC"
-            ],
-            2
+            "Jobint",
+            "MISC"
         ],
         [
-            [
-                "Inteligencia Artificial",
-                "MISC"
-            ],
-            2
+            "El relevamiento",
+            "MISC"
         ],
         [
-            [
-                "Reserva Federal",
-                "LOC"
-            ],
-            2
+            "Un año atrás",
+            "MISC"
         ],
         [
-            [
-                "Ejecutivo",
-                "ORG"
-            ],
-            1
+            "El 68% de los especialistas consultados",
+            "MISC"
         ],
         [
-            [
-                "Corte",
-                "ORG"
-            ],
-            1
+            "Marketing",
+            "ORG"
         ],
         [
-            [
-                "Bumeran",
-                "ORG"
-            ],
-            1
+            "Le siguen los perfiles administrativos con 18%",
+            "MISC"
         ],
         [
-            [
-                "Federico Barni",
-                "PER"
-            ],
-            1
+            "Más atrás aparecen redacción",
+            "MISC"
         ],
         [
-            [
-                "Bumeran.com",
-                "MISC"
-            ],
-            1
+            "El 92% manifestó intención de capacitarse para mantenerse",
+            "MISC"
         ],
         [
-            [
-                "Jobint",
-                "MISC"
-            ],
-            1
+            "El 55% de los usuarios",
+            "MISC"
         ],
         [
-            [
-                "El relevamiento",
-                "MISC"
-            ],
-            1
+            "A su vez",
+            "MISC"
         ],
         [
-            [
-                "Un año atrás",
-                "MISC"
-            ],
-            1
+            "IA\nEl mayor nivel de adopción",
+            "MISC"
         ],
         [
-            [
-                "El 68% de los especialistas consultados",
-                "MISC"
-            ],
-            1
+            "Administración",
+            "ORG"
         ],
         [
-            [
-                "Marketing",
-                "ORG"
-            ],
-            1
+            "Finanzas",
+            "PER"
         ],
         [
-            [
-                "Le siguen los perfiles administrativos con 18%",
-                "MISC"
-            ],
-            1
+            "Los principales beneficios señalados por quienes ya usan inteligencia artificial",
+            "MISC"
         ],
         [
-            [
-                "Más atrás aparecen redacción",
-                "MISC"
-            ],
-            1
+            "Dejá",
+            "PER"
         ],
         [
-            [
-                "El 92% manifestó intención de capacitarse para mantenerse",
-                "MISC"
-            ],
-            1
+            "Inteligencia Artificial",
+            "MISC"
         ],
         [
-            [
-                "El 55% de los usuarios",
-                "MISC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "A su vez",
-                "MISC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "IA\nEl mayor nivel de adopción",
-                "MISC"
-            ],
-            1
+            "Este desajuste no solo genera una inquietud generalizada, sino que también ejerce una presión económica y social considerable",
+            "MISC"
         ],
         [
-            [
-                "Administración",
-                "ORG"
-            ],
-            1
+            "La ola de despidos",
+            "MISC"
         ],
         [
-            [
-                "Finanzas",
-                "PER"
-            ],
-            1
+            "en Estados Unidos",
+            "LOC"
         ],
         [
-            [
-                "Los principales beneficios señalados por quienes ya usan inteligencia artificial",
-                "MISC"
-            ],
-            1
+            "Challenger",
+            "MISC"
         ],
         [
-            [
-                "Dejá",
-                "PER"
-            ],
-            1
+            "Gray & Christmas",
+            "MISC"
         ],
         [
-            [
-                "Este desajuste no solo genera una inquietud generalizada, sino que también ejerce una presión económica y social considerable",
-                "MISC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "La ola de despidos",
-                "MISC"
-            ],
-            1
+            "A septiembre de 2025",
+            "MISC"
         ],
         [
-            [
-                "en Estados Unidos",
-                "LOC"
-            ],
-            1
+            "Inteligencia Artificial",
+            "MISC"
         ],
         [
-            [
-                "Challenger",
-                "MISC"
-            ],
-            1
+            "Actualizaciones Tecnológicas",
+            "MISC"
         ],
         [
-            [
-                "Gray & Christmas",
-                "MISC"
-            ],
-            1
+            "IA",
+            "MISC"
         ],
         [
-            [
-                "A septiembre de 2025",
-                "MISC"
-            ],
-            1
+            "ChatGPT",
+            "MISC"
         ],
         [
-            [
-                "Actualizaciones Tecnológicas",
-                "MISC"
-            ],
-            1
+            "SP500",
+            "ORG"
         ],
         [
-            [
-                "ChatGPT",
-                "MISC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "SP500",
-                "ORG"
-            ],
-            1
+            "Esta tendencia parecería estar",
+            "MISC"
         ],
         [
-            [
-                "Esta tendencia parecería estar",
-                "MISC"
-            ],
-            1
+            "El reporte del World Economic Forum “Future of job”",
+            "MISC"
         ],
         [
-            [
-                "El reporte del World Economic Forum “Future of job”",
-                "MISC"
-            ],
-            1
+            "Argentina",
+            "LOC"
         ],
         [
-            [
-                "Para 2030 el porcentaje de tareas humanas reemplazadas por tecnología crecerá un 76%",
-                "MISC"
-            ],
-            1
+            "Para 2030 el porcentaje de tareas humanas reemplazadas por tecnología crecerá un 76%",
+            "MISC"
         ],
         [
-            [
-                "Para los desplazados",
-                "MISC"
-            ],
-            1
+            "Para los desplazados",
+            "MISC"
         ],
         [
-            [
-                "Los economistas de",
-                "MISC"
-            ],
-            1
+            "Los economistas de",
+            "MISC"
         ],
         [
-            [
-                "Goldman Sachs",
-                "PER"
-            ],
-            1
+            "Goldman Sachs",
+            "PER"
         ],
         [
-            [
-                "De hecho",
-                "MISC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "World Economic Forum",
-                "ORG"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "Big Data",
-                "MISC"
-            ],
-            1
+            "De hecho",
+            "MISC"
         ],
         [
-            [
-                "AI",
-                "ORG"
-            ],
-            1
+            "EEUU",
+            "LOC"
         ],
         [
-            [
-                "Si miramos números absolutos",
-                "MISC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "N°",
-                "MISC"
-            ],
-            1
+            "World Economic Forum",
+            "ORG"
         ],
         [
-            [
-                "Agro y Fábricas",
-                "MISC"
-            ],
-            1
+            "Big Data",
+            "MISC"
         ],
         [
-            [
-                "Puesto N",
-                "MISC"
-            ],
-            1
+            "AI",
+            "ORG"
         ],
         [
-            [
-                "Uber",
-                "ORG"
-            ],
-            1
+            "Sin embargo",
+            "MISC"
         ],
         [
-            [
-                "Amazon",
-                "ORG"
-            ],
-            1
+            "Si miramos números absolutos",
+            "MISC"
         ],
         [
-            [
-                "El 60% de los trabajadores actuales están",
-                "MISC"
-            ],
-            1
+            "N°",
+            "MISC"
         ],
         [
-            [
-                "Ahora",
-                "MISC"
-            ],
-            1
+            "Agro y Fábricas",
+            "MISC"
         ],
         [
-            [
-                "La IA",
-                "MISC"
-            ],
-            1
+            "Puesto N",
+            "MISC"
         ],
         [
-            [
-                "Los roles de nivel inicial",
-                "MISC"
-            ],
-            1
+            "Uber",
+            "ORG"
         ],
         [
-            [
-                "Consultoras",
-                "ORG"
-            ],
-            1
+            "Amazon",
+            "ORG"
         ],
         [
-            [
-                "McKinsey",
-                "ORG"
-            ],
-            1
+            "El 60% de los trabajadores actuales están",
+            "MISC"
         ],
         [
-            [
-                "El meollo del asunto",
-                "MISC"
-            ],
-            1
+            "Ahora",
+            "MISC"
         ],
         [
-            [
-                "Tristan L. Botelho",
-                "PER"
-            ],
-            1
+            "La IA",
+            "MISC"
         ],
         [
-            [
-                "Yale",
-                "ORG"
-            ],
-            1
+            "Los roles de nivel inicial",
+            "MISC"
         ],
         [
-            [
-                "Esta mentalidad",
-                "MISC"
-            ],
-            1
+            "Consultoras",
+            "ORG"
         ],
         [
-            [
-                "Generación Z",
-                "MISC"
-            ],
-            1
+            "McKinsey",
+            "ORG"
         ],
         [
-            [
-                "Casi la mitad de los solicitantes de empleo de la Gen Z",
-                "MISC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "Los recién graduados",
-                "MISC"
-            ],
-            1
+            "El meollo del asunto",
+            "MISC"
         ],
         [
-            [
-                "Los jóvenes trabajadores en el sector tecnológico lo están sintiendo",
-                "MISC"
-            ],
-            1
+            "Tristan L. Botelho",
+            "PER"
         ],
         [
-            [
-                "Gen Z",
-                "ORG"
-            ],
-            1
+            "Yale",
+            "ORG"
         ],
         [
-            [
-                "Expertos",
-                "ORG"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "El desafío para la sociedad",
-                "MISC"
-            ],
-            1
+            "Esta mentalidad",
+            "MISC"
         ],
         [
-            [
-                "Lo que es incuestionable",
-                "MISC"
-            ],
-            1
+            "Generación Z",
+            "MISC"
         ],
         [
-            [
-                "Varegos",
-                "PER"
-            ],
-            1
+            "Casi la mitad de los solicitantes de empleo de la Gen Z",
+            "MISC"
         ],
         [
-            [
-                "Humanware",
-                "LOC"
-            ],
-            1
+            "EEUU",
+            "LOC"
         ],
         [
-            [
-                "Algunas empresas",
-                "MISC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "Adam Schickling",
-                "PER"
-            ],
-            1
+            "Los recién graduados",
+            "MISC"
         ],
         [
-            [
-                "Vanguard",
-                "ORG"
-            ],
-            1
+            "Los jóvenes trabajadores en el sector tecnológico lo están sintiendo",
+            "MISC"
         ],
         [
-            [
-                "No necesariamente porque la IA",
-                "MISC"
-            ],
-            1
+            "Gen Z",
+            "ORG"
         ],
         [
-            [
-                "Schickling",
-                "MISC"
-            ],
-            1
+            "EEUU",
+            "LOC"
         ],
         [
-            [
-                "Anthropic",
-                "PER"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "Dario Amodei",
-                "PER"
-            ],
-            1
+            "Expertos",
+            "ORG"
         ],
         [
-            [
-                "Amodei",
-                "PER"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "Anderson Cooper",
-                "PER"
-            ],
-            1
+            "Sin embargo",
+            "MISC"
         ],
         [
-            [
-                "No podemos simplemente caminar dormidos",
-                "MISC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "Beige Book de la Reserva Federal",
-                "MISC"
-            ],
-            1
+            "El desafío para la sociedad",
+            "MISC"
         ],
         [
-            [
-                "Reserva Federal de Cleveland",
-                "LOC"
-            ],
-            1
+            "IA",
+            "MISC"
         ],
         [
-            [
-                "Reserva Federal de Filadelfia",
-                "LOC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "Beige Book",
-                "MISC"
-            ],
-            1
+            "Lo que es incuestionable",
+            "MISC"
         ],
         [
-            [
-                "Presión",
-                "MISC"
-            ],
-            1
+            "Varegos",
+            "PER"
         ],
         [
-            [
-                "El análisis de Vanguard",
-                "MISC"
-            ],
-            1
+            "IA",
+            "MISC"
         ],
         [
-            [
-                "La proporción de trabajadores de entre 21 y 25 años",
-                "MISC"
-            ],
-            1
+            "Humanware",
+            "LOC"
         ],
         [
-            [
-                "Cisco",
-                "ORG"
-            ],
-            1
+            "Reserva Federal",
+            "LOC"
         ],
         [
-            [
-                "Jeetu Patel",
-                "PER"
-            ],
-            1
+            "Vanguard",
+            "MISC"
         ],
         [
-            [
-                "Patel",
-                "PER"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "Ai4",
-                "MISC"
-            ],
-            1
+            "Algunas empresas",
+            "MISC"
         ],
         [
-            [
-                "Las Vegas",
-                "LOC"
-            ],
-            1
+            "IA",
+            "ORG"
         ],
         [
-            [
-                "IA?",
-                "MISC"
-            ],
-            1
+            "CNN",
+            "ORG"
+        ],
+        [
+            "Adam Schickling",
+            "PER"
+        ],
+        [
+            "Vanguard",
+            "ORG"
+        ],
+        [
+            "Vanguard",
+            "MISC"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "IA",
+            "MISC"
+        ],
+        [
+            "No necesariamente porque la IA",
+            "MISC"
+        ],
+        [
+            "Vanguard",
+            "MISC"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "Vanguard",
+            "MISC"
+        ],
+        [
+            "Schickling",
+            "MISC"
+        ],
+        [
+            "Vanguard",
+            "MISC"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "Sin embargo",
+            "MISC"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "Vanguard",
+            "MISC"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "Anthropic",
+            "PER"
+        ],
+        [
+            "Dario Amodei",
+            "PER"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "Amodei",
+            "PER"
+        ],
+        [
+            "Anderson Cooper",
+            "PER"
+        ],
+        [
+            "CNN",
+            "ORG"
+        ],
+        [
+            "No podemos simplemente caminar dormidos",
+            "MISC"
+        ],
+        [
+            "Reserva Federal",
+            "LOC"
+        ],
+        [
+            "Beige Book de la Reserva Federal",
+            "MISC"
+        ],
+        [
+            "Reserva Federal de Cleveland",
+            "LOC"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "Reserva Federal de Filadelfia",
+            "LOC"
+        ],
+        [
+            "Beige Book",
+            "MISC"
+        ],
+        [
+            "Presión",
+            "MISC"
+        ],
+        [
+            "El análisis de Vanguard",
+            "MISC"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "Vanguard",
+            "MISC"
+        ],
+        [
+            "Schickling",
+            "PER"
+        ],
+        [
+            "La proporción de trabajadores de entre 21 y 25 años",
+            "MISC"
+        ],
+        [
+            "Vanguard",
+            "MISC"
+        ],
+        [
+            "Cisco",
+            "ORG"
+        ],
+        [
+            "Jeetu Patel",
+            "PER"
+        ],
+        [
+            "CNN",
+            "ORG"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "Patel",
+            "PER"
+        ],
+        [
+            "Ai4",
+            "MISC"
+        ],
+        [
+            "Las Vegas",
+            "LOC"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "IA",
+            "MISC"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "IA",
+            "ORG"
+        ],
+        [
+            "Schickling",
+            "PER"
+        ],
+        [
+            "Vanguard",
+            "MISC"
+        ],
+        [
+            "IA?",
+            "MISC"
+        ],
+        [
+            "Schickling",
+            "PER"
         ]
     ],
     "verbos": [
